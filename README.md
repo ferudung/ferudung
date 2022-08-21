@@ -1,6 +1,6 @@
 ### Hi👋, I'm Ferudun Göğüş
 
-- 🔭 I’m currently working on DeepsBank
+- 🔭 I’m currently working on Nüve Core  
 - 🌱 I’m currently learning appium
 - 💬 Ask me about selenium and cucumber
 - 📫 How to reach me: ferudungogus2021@gmail.com and www.linkedin.com/in/ferudungogus
