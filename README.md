@@ -1,4 +1,4 @@
-### Hi👋, I'm Ferudun Göğüş
+### Hi👋, I'm Ferudun G.
 
 - 🔭 I’m currently working on Nüve Core  
 - 🌱 I’m currently learning appium
