@@ -1,6 +1,6 @@
 ### Hi👋, I'm Ferudun G.
 
-- 🔭 I’m currently working on Nüve Core  
+- 🔭 I’m currently working on Wise Quarter
 - 🌱 I’m currently learning appium
 - 💬 Ask me about selenium and cucumber
 
